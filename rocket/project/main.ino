@@ -2,19 +2,22 @@
 // Copyright 2021 Tianjin University TIM Lab. All Rights Reserved.
 //
 // File:
-// mpu6050.h
+// main.ino
 // 
 // Description:
-// MPU6050 data and basic function.
+// Arduino project template. Put your main code here.
 // 
 // Revision history:
 // Version  Date        Author      Changes      
-// 1.0      2021.10.19  Fanfei      Initial version
+// 1.0      2021.10.20  Fanfei      Initial version
 //****************************************************************
 
-#ifndef __mpu6050
-#define __mpu6050
+void setup() {
+  // put your setup code here, to run once:
 
+}
 
+void loop() {
+  // put your main code here, to run repeatedly:
 
-#endif
+}

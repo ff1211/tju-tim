@@ -2,7 +2,7 @@
 // Copyright 2021 Tianjin University TIM Lab. All Rights Reserved.
 //
 // File:
-// mpu6050.cpp
+// record_uno.cpp
 // 
 // Description:
 //

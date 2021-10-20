@@ -2,25 +2,19 @@
 // Copyright 2021 Tianjin University TIM Lab. All Rights Reserved.
 //
 // File:
-// datatype.h
+// mpu6050_uno.h
 // 
 // Description:
-// Basic datatypes of variables.
+// Header of mpu6050 function.
 // 
 // Revision history:
 // Version  Date        Author      Changes      
 // 1.0      2021.10.19  Fanfei      Initial version
 //****************************************************************
 
-#ifndef __datatype
-#define __datatype
+#ifndef __mpu6050_uno
+#define __mpu6050_uno
 
-//Basic datatypes.
-typedef char            int8_t;
-typedef unsigned char   uint8_t;
-typedef int             int16_t;
-typedef unsigned int    uint16_t;
-typedef long            int32_t;
-typedef unsigned long   uint32_t;
+
 
 #endif
