@@ -1,20 +1,20 @@
 //****************************************************************
-// Copyright 2021 Tianjin University TIM Lab. All Rights Reserved.
+// Copyright 2022 Tianjin University TIM Lab. All Rights Reserved.
 //
 // File:
-// mpu6050_uno.h
+// tim_arduino.h
 // 
 // Description:
-// Header of mpu6050 function.
+// Tim Arduino project header file.
 // 
 // Revision history:
 // Version  Date        Author      Changes      
-// 1.0      2021.10.19  Fanfei      Initial version
+// 1.0      2022.03.17  Fanfei      Initial version
 //****************************************************************
 
-#ifndef __mpu6050_uno
-#define __mpu6050_uno
+#ifndef __TIM
+#define __TIM
 
-
+#include "datatype.h"
 
 #endif
