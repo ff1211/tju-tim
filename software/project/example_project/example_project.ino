@@ -12,7 +12,7 @@
 // 1.0      2022.03.17  Fanfei      Initial version
 //****************************************************************
 
-#include "tim_arduino.h"
+#include <tim_arduino.h>
 
 void setup() {
 // put your setup code here, to run once:

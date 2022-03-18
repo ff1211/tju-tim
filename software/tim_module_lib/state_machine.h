@@ -15,7 +15,7 @@
 #ifndef __STATE_MACHINE
 #define __STATE_MACHINE
 
-#include "../arduino/datatype.h"
+#include "../tim_arduino_lib/datatype.h"
 
 class state_machine
 {

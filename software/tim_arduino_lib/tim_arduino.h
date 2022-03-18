@@ -15,6 +15,4 @@
 #ifndef __TIM
 #define __TIM
 
-#include "datatype.h"
-
 #endif
