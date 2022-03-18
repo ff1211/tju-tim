@@ -15,4 +15,6 @@
 #ifndef __TIM
 #define __TIM
 
+#include <inttypes.h>
+
 #endif
